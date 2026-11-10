@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "Nutbasta",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "Nutbasta",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
+        "role": "admin",
+        "name": "AdamZim",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
+        "role": "admin",
+        "name": "Zaphire64",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "dev",
-        "name": "List Coder",
+        "role": "admin",
+        "name": "Vxr",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
