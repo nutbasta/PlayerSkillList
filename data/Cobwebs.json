@@ -1,0 +1,28 @@
+{
+    "id": 82172844,
+    "name": "Cobwebs",
+    "author": "NineDice",
+    "creators": ["NineDice"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/GJzJAWR1QEg",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Destroy",
+            "link": "https://youtu.be/L4Zic9ivVwQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Surge",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rapid",
+            "percent": 45,
+            "hz": 240
+        }
+    ]
+}
