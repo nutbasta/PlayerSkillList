@@ -5,8 +5,7 @@
     "creators": ["Atomic"],
     "verifier": "Nutbasta",
     "verification": "https://youtu.be/m6kH_yByPIQ",
+    "percentToQualify": "100",
     "records": [
-        {
-        }
     ]
 }
