@@ -1,0 +1,23 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "creators": ["Metalface221"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/LExgnX-Gxio",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Surge",
+            "percent": 100,
+            "link": "https://youtu.be/3zniEuItZKU",
+            "hz": 240
+        },
+        {
+            "user": "Wozir",
+            "percent": 25,
+            "hz": 240
+        }
+    ]
+}
