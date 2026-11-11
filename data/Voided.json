@@ -1,0 +1,18 @@
+{
+    "id": 82598548,
+    "name": "Voided",
+    "author": "JustXSoos",
+    "creators": ["JustXSoos"],
+    "verifier": "Zaphire64",
+    "verification": "https://youtu.be/BuBXGp0lMAs",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LynelDestroyer",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
