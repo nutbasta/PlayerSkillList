@@ -1,0 +1,28 @@
+{
+    "id": 25610878,
+    "name": "Aftermath",
+    "author": "Exenity",
+    "creators": ["Findexi, Bassiegames, Rhythmic, Exenity, knobbelboy, Squizz, Vultra, Waze"],
+    "verifier": "cosmicsj",
+    "verification": "https://youtu.be/BBkRMcACLpg",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "nutbasta",
+            "link": "https://youtu.be/YUbWWpwGHHw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SomeoneIsUsingThisAccount",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "upside",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
