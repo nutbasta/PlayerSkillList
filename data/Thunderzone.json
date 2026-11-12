@@ -1,0 +1,18 @@
+{
+    "id": 63858842,
+    "name": "Thunderzone",
+    "author": "Cersia",
+    "creators": ["henry500, awedy, TheLasaga, Inside, fruitsalad"],
+    "verifier": "Upside",
+    "verification": "https://youtu.be/XlQF4THJeYA",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "link": "https://youtu.be/miN-x--DGCU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
