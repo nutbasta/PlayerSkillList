@@ -72,6 +72,11 @@
             "link": "https://youtu.be/w2SWL6Ca2Yw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Glitch",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
