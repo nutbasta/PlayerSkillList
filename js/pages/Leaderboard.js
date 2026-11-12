@@ -102,7 +102,7 @@ export default {
         this.leaderboard = leaderboard;
         this.err = err;
         // Hide loading spinner
-        this.loading = true;
+        this.loading = false;
     },
     methods: {
         localize,
