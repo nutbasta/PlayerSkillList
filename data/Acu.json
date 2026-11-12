@@ -1,0 +1,71 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/6GcnKzJymoM",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "cosmicsj",
+            "link": "https://youtu.be/nbS77amiPcQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Wozir",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Upside",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Destroy",
+            "link": "https://youtu.be/ag3Ml1RjNfk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Surge",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Aris",
+            "percent": 100,
+            "mobile": true,
+            "hz": 240
+        },
+        {
+            "user": "SomeoneIsUsingThisAccount",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Space",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "subtlepup",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LynelDestroyer",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zaphire64",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
