@@ -39,7 +39,7 @@
             "user": "Aris",
             "percent": 100,
             "mobile": true,
-            "hz": 240
+            "hz": 60
         },
         {
             "user": "SomeoneIsUsingThisAccount",
@@ -60,7 +60,8 @@
         {
             "user": "LynelDestroyer",
             "percent": 100,
-            "hz": 240
+            "mobile": true,
+            "hz": 60
         },
         {
             "user": "Zaphire64",
