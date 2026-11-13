@@ -78,6 +78,11 @@
             "user": "Glitch",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Kuosk",
+            "percent": 72,
+            "hz": 240
         }
     ]
 }
