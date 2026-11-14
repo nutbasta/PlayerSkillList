@@ -1,0 +1,17 @@
+{
+    "id": 107653994,
+    "name": "vast waters",
+    "author": "HangyKing",
+    "creators": ["HangyKing"],
+    "verifier": "Adam",
+    "verification": "https://youtu.be/QCAG5DbSiwk",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 76,
+            "hz": 240
+        }
+    ]
+}
