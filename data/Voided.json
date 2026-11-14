@@ -3,14 +3,15 @@
     "name": "Voided",
     "author": "JustXSoos",
     "creators": ["JustXSoos"],
-    "verifier": "Surge",
-    "verification": "https://youtu.be/iTx1GdVJbpo",
+    "verifier": "Zaphire64",
+    "verification": "https://youtu.be/BuBXGp0lMAs",
     "percentToQualify": "25",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Zaphire64",
+            "user": "Surge",
             "percent": 100,
+            "link": "https://youtu.be/iTx1GdVJbpo",
             "hz": 240
         },
         {
