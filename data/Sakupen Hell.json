@@ -1,0 +1,22 @@
+{
+    "id": 23262780,
+    "name": "Sakupen Hell",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "Glitch",
+    "verification": "https://youtu.be/Y22Lw8IxVrg",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Destroy19",
+            "percent": 47,
+            "hz": 240
+        }
+    ]
+}

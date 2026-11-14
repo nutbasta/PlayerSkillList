@@ -3,14 +3,13 @@
     "name": "Wasureta",
     "author": "Helpegasus",
     "creators": ["XLSpiral, Helpegasus, Deadlox, augi, Isane, Belonzi, KEl3ctr0, LimeTime313, Crazen, Splash"],
-    "verifier": "Destroy",
+    "verifier": "Destroy19",
     "verification": "https://youtu.be/iU5-5zl3AzY",
     "percentToQualify": "25",
     "password": "Free To Copy",
     "records": [
         {
             "user": "noly",
-            "link": "",
             "percent": 100,
             "hz": 240
         }
