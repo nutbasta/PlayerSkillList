@@ -1,0 +1,38 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["KrazyGFX, Mrgm, peng, Blaze, Teno, Titoalper, ar12, BeClan, Asuith, Genoxide"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/70_yOgMVktA",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Space",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LynelDestroyer",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Glitch",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Destroy19",
+            "link": "https://youtu.be/pNS1QOLyHjI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kuosk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

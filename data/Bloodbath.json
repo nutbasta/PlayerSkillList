@@ -43,6 +43,12 @@
             "user": "Aris",
             "percent": 60,
             "hz": 240
+        },
+        {
+            "user": "upside",
+            "percent": 100,
+            "link": "https://youtu.be/eG9Klyhw11Q",
+            "hz": 240
         }
     ]
 }
