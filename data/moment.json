@@ -1,0 +1,17 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "Lexycat",
+    "creators": ["icedcave, Lexycat, Stormfly"],
+    "verifier": "Kuosk",
+    "verification": "https://youtu.be/TD6eRdrJbuQ",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
