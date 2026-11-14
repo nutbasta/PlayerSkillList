@@ -1,0 +1,48 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Asonicmen, Evasium, Crack, Riot, GgB0y, Michigun, Etzer, Giron, Havok, weoweoteo, Vermillion"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/Q0UQJl-_jlc",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SomeoneIsUsingThisAccount",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "cosmicsj",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Wozir",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Destroy",
+            "link": "https://youtu.be/ytL9laWUjAY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "justinobombino",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Surge",
+            "percent": 28,
+            "hz": 240
+        },
+        {
+            "user": "Aris",
+            "percent": 60,
+            "hz": 240
+        }
+    ]
+}

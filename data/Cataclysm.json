@@ -32,6 +32,11 @@
             "user": "Space",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Destroy",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
