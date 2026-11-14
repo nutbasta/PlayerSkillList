@@ -1,0 +1,37 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "cosmicsj",
+    "verification": "https://youtu.be/Bp6IK3lT3_s",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Justin",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Aris",
+            "percent": 53,
+            "hz": 240
+        },
+        {
+            "user": "SomeoneIsUsingThisAccount",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Space",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
