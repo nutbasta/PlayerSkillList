@@ -1,0 +1,17 @@
+{
+    "id": 84766628,
+    "name": "Cat Planet",
+    "author": "icedcave",
+    "creators": ["icedcave"],
+    "verifier": "Space US",
+    "verification": "https://youtu.be/ap80YxNHfro",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
