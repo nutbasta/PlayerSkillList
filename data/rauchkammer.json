@@ -1,0 +1,28 @@
+{
+    "id": 146399247,
+    "name": "rauchkammer",
+    "author": "Devilmine",
+    "creators": ["Devilmine"],
+    "verifier": "Destroy19",
+    "verification": "https://youtu.be/2CgUYpQ91pY",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Surge",
+            "percent": 100,
+            "link": "https://youtu.be/XXShibqYo-E",
+            "hz": 240
+        },
+        {
+            "user": "Space US",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

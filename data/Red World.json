@@ -1,0 +1,18 @@
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "saRy",
+    "creators": ["saRy, NePtunE"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/8pGNZZMOJtU",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Destroy19",
+            "link": "https://youtu.be/4d3-Z3i9Trc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

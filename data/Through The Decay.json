@@ -1,0 +1,18 @@
+{
+    "id": 114933189,
+    "name": "Through The Decay",
+    "author": "spark",
+    "creators": ["spark"],
+    "verifier": "upside",
+    "verification": "https://youtu.be/VwhGnvODuCs",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "link": "https://youtu.be/8pGNZZMOJtU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
