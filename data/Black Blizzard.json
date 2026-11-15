@@ -3,8 +3,8 @@
     "name": "Black Blizzard",
     "author": "Krmal",
     "creators": ["Krmal"],
-    "verifier": "Wozir",
-    "verification": "https://youtu.be/kEBfdCqvYZ0",
+    "verifier": "upside",
+    "verification": "https://youtu.be/670Z8db8FnQ",
     "percentToQualify": "25",
     "password": "Free To Copy",
     "records": [
@@ -14,9 +14,9 @@
             "hz": 240
         },
         {
-            "user": "upside",
+            "user": "Wozir",
             "percent": 100,
-            "link": "https://youtu.be/670Z8db8FnQ",
+            "link": "https://youtu.be/kEBfdCqvYZ0",
             "hz": 240
         }
     ]
