@@ -3,14 +3,20 @@
     "name": "Cat Planet",
     "author": "icedcave",
     "creators": ["icedcave"],
-    "verifier": "Space US",
-    "verification": "https://youtu.be/ap80YxNHfro",
+    "verifier": "upside",
+    "verification": "https://youtu.be/EM4mvVnsXWs",
     "percentToQualify": "25",
     "password": "Free To Copy",
     "records": [
         {
             "user": "Nutbasta",
             "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Space US",
+            "percent": 100,
+            "link": "https://youtu.be/ap80YxNHfro",
             "hz": 240
         }
     ]
