@@ -1,0 +1,17 @@
+{
+    "id": 34057654,
+    "name": "Black Blizzard",
+    "author": "Krmal",
+    "creators": ["Krmal"],
+    "verifier": "Wozir",
+    "verification": "https://youtu.be/kEBfdCqvYZ0",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 76,
+            "hz": 240
+        }
+    ]
+}
