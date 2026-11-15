@@ -1,5 +1,3 @@
-import listData from '../data/_list.json';
-
 /**
  * Numbers of decimal digits to round to
  */
@@ -13,22 +11,21 @@ const scale = 1;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    // Automatically uses the total number of levels from your _list.json file
-    const maxRank = listData.length;
-
-    if (rank > maxRank) {
+    if (rank > 150) {
         return 0;
     }
     if (rank > 75 && percent < 100) {
         return 0;
     }
 
-    // Automatically scales so Rank 1 = 200 points and the final rank = 1 point
-    const b = Math.log(200) / Math.log(maxRank);
-    let baseScore = 200 * Math.pow(rank, -b);
-
-    // Apply percentage scaling relative to minPercent
-    let score = baseScore * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    // Old formula
+    /*
+    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
+        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    */
+    // New formula
+    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
+        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
 
