@@ -1,0 +1,17 @@
+{
+    "id": 77008332,
+    "name": "gravity",
+    "author": "Kaza",
+    "creators": ["Kaza"],
+    "verifier": "Space US",
+    "verification": "https://youtu.be/PDkxJmggD-I",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
