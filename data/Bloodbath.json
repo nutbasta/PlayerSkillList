@@ -54,6 +54,11 @@
             "user": "LynelDestroyer",
             "percent": 41,
             "hz": 240
+        },
+        {
+            "user": "Space US",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
