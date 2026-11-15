@@ -1,0 +1,18 @@
+{
+    "id": 88244926,
+    "name": "MISFIRE",
+    "author": "galaxxyss",
+    "creators": ["Metsho, waffybun, MadisonYuko, lGenoxide, GawrGura, valentine, galaxxyss, StarkytheSalad"],
+    "verifier": "upside",
+    "verification": "https://youtu.be/tbVoJ1gD-O8",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Space US",
+            "percent": 100,
+            "link": "https://youtu.be/eW_GiktygEw",
+            "hz": 240
+        }
+    ]
+}
