@@ -1,31 +1,24 @@
-/**
- * Numbers of decimal digits to round to
- */
+import listData from './_list.json'; // Import your JSON array directly
+
 const scale = 1;
 
-/**
- * Calculate the score awarded when having a certain percentage on a list level
- * @param {Number} rank Position on the list
- * @param {Number} percent Percentage of completion
- * @param {Number} minPercent Minimum percentage required
- * @returns {Number}
- */
 export function score(rank, percent, minPercent) {
-    if (rank > 150) {
+    // Automatically uses the total number of levels in your JSON file (41 currently)
+    const maxRank = listData.length; //[cite: 1]
+
+    if (rank > maxRank) {
         return 0;
     }
+    
     if (rank > 75 && percent < 100) {
         return 0;
     }
 
-    // Old formula
-    /*
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
-    // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    // Automatically scales so rank 1 = 200 points, and the final rank (41) = 1 point
+    const b = Math.log(200) / Math.log(maxRank);
+    let baseScore = 200 * Math.pow(rank, -b);
+
+    let score = baseScore * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
 
