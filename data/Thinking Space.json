@@ -7,5 +7,10 @@
     "verification": "https://youtu.be/m6kH_yByPIQ",
     "percentToQualify": "25",
     "records": [
+        {
+            "user": "Kuosk",
+            "percent": 26,
+            "hz": 240
+        }
     ]
 }
