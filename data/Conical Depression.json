@@ -1,0 +1,17 @@
+{
+    "id": 17711004,
+    "name": "Conical Depression",
+    "author": "Krmal",
+    "creators": ["Krmal"],
+    "verifier": "Wozir",
+    "verification": "https://youtu.be/iV1SQj8DC0M",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
