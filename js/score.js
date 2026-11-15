@@ -8,7 +8,7 @@ const scale = 1;
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
- * @param {Number} maxRank Total number of levels (defaults to 41, updates automatically if passed)
+ * @param {Number} maxRank Total number of levels (defaults to 41)
  * @returns {Number}
  */
 export function score(rank, percent, minPercent, maxRank = 41) {
@@ -19,9 +19,12 @@ export function score(rank, percent, minPercent, maxRank = 41) {
         return 0;
     }
 
-    // Automatically scales so Rank 1 = 200 points and the final rank = 1 point
-    const b = Math.log(200) / Math.log(maxRank);
-    let baseScore = 200 * Math.pow(rank, -b);
+    // Smoother curve: Adjust the exponent (e.g., 1.5 or 2) to change how fast points drop off.
+    // Higher exponent = holds higher points longer before dropping near the end.
+    const curveExponent = 1.5; 
+    
+    // Calculates a smooth curve from 200 down to 1
+    let baseScore = 199 * Math.pow((maxRank - rank) / (maxRank - 1), curveExponent) + 1;
 
     // Apply percentage scaling relative to minPercent
     let score = baseScore * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
