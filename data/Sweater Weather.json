@@ -1,0 +1,23 @@
+{
+    "id": 81148582,
+    "name": "Sweater Weather",
+    "author": "VelYT",
+    "creators": ["VelYT"],
+    "verifier": "cosmicsj",
+    "verification": "https://youtu.be/jfHVQKJ-g38",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Destroy19",
+            "link": "https://youtu.be/xV44Ozmc4V8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
