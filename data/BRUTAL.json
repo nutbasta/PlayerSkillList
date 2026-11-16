@@ -1,0 +1,29 @@
+{
+    "id": 138356396,
+    "name": "BRUTAL",
+    "author": "TShack",
+    "creators": ["TShack, airless"],
+    "verifier": "rapid",
+    "verification": "https://youtu.be/jvMIbfGJQdo",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Destroy19",
+            "link": "https://youtu.be/I7Fk1q9skAU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "cosmicsj",
+            "link": "https://youtu.be/I7Fk1q9skAU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
