@@ -1,0 +1,18 @@
+{
+    "id": 108558924,
+    "name": "Maths",
+    "author": "oleki",
+    "creators": ["oleki"],
+    "verifier": "cosmicsj",
+    "verification": "https://youtu.be/nz0VwMexNII",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "rapid",
+            "link": "https://youtu.be/bNOTl4bHBTg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
