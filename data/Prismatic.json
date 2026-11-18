@@ -1,0 +1,17 @@
+{
+    "id": 107341811,
+    "name": "Prismatic",
+    "author": "CatGeo",
+    "creators": ["CatGeo"],
+    "verifier": "Destroy19",
+    "verification": "https://youtu.be/2CgUYpQ91pY",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Nutbasta",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
