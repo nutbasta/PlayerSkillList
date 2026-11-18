@@ -11,7 +11,7 @@ const scale = 1;
  * @param {Number} maxRank Total number of levels (defaults to 41)
  * @returns {Number}
  */
-export function score(rank, percent, minPercent, maxRank = 46) {
+export function score(rank, percent, minPercent, maxRank = 47) {
     if (rank > maxRank) {
         return 0;
     }
