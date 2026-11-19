@@ -1,0 +1,17 @@
+{
+    "id": 19300593,
+    "name": "AcropoliX",
+    "author": "SoulsTRK",
+    "creators": ["SoulsTRK"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/S9Kewo9RpPQ",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SomeoneIsUsingThisAccount",
+            "percent": 88,
+            "hz": 240
+        }
+    ]
+}

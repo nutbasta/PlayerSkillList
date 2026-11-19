@@ -8,10 +8,10 @@ const scale = 1;
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
- * @param {Number} maxRank Total number of levels (defaults to 41)
+ * @param {Number} maxRank Total number of levels (defaults to hi)
  * @returns {Number}
  */
-export function score(rank, percent, minPercent, maxRank = 50) {
+export function score(rank, percent, minPercent, maxRank = 51) {
     if (rank > maxRank) {
         return 0;
     }
