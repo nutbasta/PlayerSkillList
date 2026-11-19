@@ -1,0 +1,17 @@
+{
+    "id": 64148732,
+    "name": "Carcano",
+    "author": "Asuith",
+    "creators": ["TomsoN, Asuith"],
+    "verifier": "surge",
+    "verification": "https://youtu.be/1_-BJaX-wNo",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "SomeoneIsUsingThisAccount",
+            "percent": 75,
+            "hz": 240
+        }
+    ]
+}
