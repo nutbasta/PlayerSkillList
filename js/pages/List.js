@@ -100,28 +100,28 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Verifications need to have a video recording, the first vicor with a recording gets set as the verifier.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Unrated levels are based off the EDI (Extreme Demon Index).
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Records do not need to have a video recording.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Top 1-5s prolly need clicks tho we're not strict.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        PLEASE SUBMIT LEVELS THROUGH THE FORM. Or straight to nutbasta i guess but like use the form please.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        hi
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        hi
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        hi
                     </p>
                 </div>
             </div>
