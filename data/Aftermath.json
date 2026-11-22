@@ -33,6 +33,11 @@
             "user": "rapid",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Wozir",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
