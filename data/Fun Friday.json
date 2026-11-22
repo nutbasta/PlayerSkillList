@@ -1,0 +1,23 @@
+{
+    "id": 127135884,
+    "name": "Fun Friday",
+    "author": "Zeronium",
+    "creators": ["Zeronium"],
+    "verifier": "Nutbasta",
+    "verification": "https://youtu.be/V-KVqBSCs4E",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AdamZim",
+            "percent": 50,
+            "hz": 240
+        },
+        {
+            "user": "rapid",
+            "percent": 100,
+            "link": "https://youtu.be/J1c9HUnt1FE",
+            "hz": 240
+        }
+    ]
+}
