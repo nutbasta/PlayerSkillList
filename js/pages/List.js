@@ -115,7 +115,7 @@ export default {
                         PLEASE SUBMIT LEVELS THROUGH THE FORM. Or straight to nutbasta i guess but like use the form please.
                     </p>
                     <p>
-                        hi
+                        While the verification needs to have a video, if there are no other victors we can add a temporary video while waiting.
                     </p>
                     <p>
                         hi
