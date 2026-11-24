@@ -18,6 +18,11 @@
             "user": "Space US",
             "percent": 33,
             "hz": 240
+        },
+        {
+            "user": "someoneisusingthisaccount",
+            "percent": 94,
+            "hz": 240
         }
     ]
 }
