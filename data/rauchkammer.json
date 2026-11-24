@@ -29,6 +29,11 @@
             "link": "https://youtu.be/XXShibqYo-E",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "upside",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
