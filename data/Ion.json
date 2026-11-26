@@ -8,5 +8,11 @@
     "percentToQualify": "25",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "cosmicsj",
+            "percent": 100,
+            "link": "https://youtu.be/U2oGYxnO_1o",
+            "hz": 240
+        }
     ]
 }
