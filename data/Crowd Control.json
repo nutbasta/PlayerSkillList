@@ -1,0 +1,18 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "Deadlox",
+    "creators": ["Ka1ns, Endlevel, Deadlox, ewop, silver"],
+    "verifier": "rapid",
+    "verification": "https://youtu.be/gUqjfct_6Og",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Surge",
+            "link": "https://youtu.be/9tnJkDopaSk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
