@@ -118,7 +118,7 @@ export default {
                         While the verification needs to have a video, if there are no other victors we can add a temporary video while waiting.
                     </p>
                     <p>
-                        hi
+                        2P levels must be completed with a friend.
                     </p>
                     <p>
                         hi
